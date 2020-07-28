@@ -1,21 +1,21 @@
-Oga Librarian
+Alexander Bernhardt Library  Website
 =======================
 
 ## Developer
 * Ushahemba Shir. Powered by [Nawill IT Solution] (https//nawill.ng)
 
 ## Discription
-* A MERN stack app for build for library management
+* A full stack app with API's calls. 
 
 ## Build with
-* Mongo db
-* Express JS
-* React
-* Node JS
+* Front end build wit html5, css3
+* Designed with boostrap 4
+* Back end build with node and express
+
 
 
 ## Features
-* Web and mobile UI connected to internet
+* 
 
 
 ## Contributors
